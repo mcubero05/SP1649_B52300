@@ -33,6 +33,6 @@ Este repositorio contiene las entregas de la clase.
   </tr>
     <tr>
     <td width="10%"> 29.10.2020 </td>
-    <td width="25%">  <a href="SP1649_c13_2020.html">Proyecto Final  </a>  </td>
+    <td width="25%">  <a href="https://mcubero05.github.io/ProyectoFinal-SP1649/">Proyecto Final  </a>  </td>
     <td width="25%">   </td>
 </table>

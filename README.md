@@ -13,7 +13,7 @@ Este repositorio contiene las entregas de la clase.
   <tr>
     <td width="10%"> 13.08.2020 </td>
     <td width="25%">  <a href="Primer laboratorio"> </td>
-    <td width="25%">  <a href="Lab0.html"></a> Laboratorio 0</td>
+    <td width="25%">  <a href="Laboratorio 0"></a> Lab0.html</td>
   </tr>
   <tr>
     <td width="10%"> 10.09.2020 </td>
